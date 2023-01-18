@@ -3,9 +3,9 @@ Real Estate app
 
 # Iteration/Sprint 1:
 Backend:
-- Setup C# Backend Web Server [ ]
-- Create JSON persistence file [ ]
-- CRUD features --> CREATE, PUT, DELETE, GET for real estate data [ ]
+- [ ] Setup C# Backend Web Server 
+- [ ]Create JSON persistence file 
+- [ ] CRUD features --> CREATE, PUT, DELETE, GET for real estate data [ ]
 
 Frontend:
 - Setup React-Typescript Frontend App [ ]
