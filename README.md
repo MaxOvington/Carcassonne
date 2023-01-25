@@ -1,7 +1,7 @@
 # Project Carcassonne
 Real Estate app 
 
-# Iteration/Sprint 1:
+# Iteration 1:
 Backend:
 - [ ] Setup C# Backend Web Server
 - [ ] Create JSON persistence file
