@@ -14,4 +14,4 @@ Frontend:
 - [ ] Add ability to delete and update table values (DELETE, PUT)
 
 Misc:
-- [ ] Setup Jira
+- [X] Setup Jira
