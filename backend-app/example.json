@@ -1,0 +1,11 @@
+[
+  {
+    "Id": 2,
+    "Suburb": "Coogee",
+    "Street": "Dolphin Avenue",
+    "Price": 450,
+    "Num_bedroom": 3,
+    "Num_bathroom": 2,
+    "Num_garage": 1
+  }
+]
